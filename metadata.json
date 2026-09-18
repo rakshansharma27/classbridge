@@ -1,0 +1,6 @@
+{
+  "name": "ClassBridge",
+  "description": "ClassBridge transforms scattered and confusing school announcements into clear, personalized tasks, deadlines, calendar events, and reminders for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
